@@ -1,6 +1,6 @@
 SF Food Trucks
 ===
-This is a clone repository from [docker curriculum](http://prakhar.me/docker-curriculum). The purpose is to learn and practise how to use docker and docker-compose, be familiar with docker commands. 
+This is a clone repository from [docker curriculum](http://prakhar.me/docker-curriculum). The purpose is to learn and practise how to use docker and docker-compose and be familiar with docker commands. 
 
 #### Docker
 
